@@ -1,0 +1,39 @@
+@font-face {
+    font-family: Roboto;
+    src:url(../fonts/Roboto/Roboto-Regular.ttf);
+}
+
+@font-face {
+    font-family: Caladea;
+    src: url(../fonts/Caladea/Caladea-Regular.ttf);
+}
+
+@font-face {
+    font-family: Roboto_slab;
+    src: url(../fonts/Roboto_Slab/static/RobotoSlab-Light.ttf);
+}
+
+@font-face {
+    font-family: Poppins_light;
+    src: url(../fonts/Poppins/Poppins-Light.ttf);
+}
+
+@font-face {
+    font-family: Poppins_semibold;
+    src: url(../fonts/Poppins/Poppins-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: Poppins_regular;
+    src: url(../fonts/Poppins/Poppins-Regular.ttf);
+}
+
+@font-face {
+    font-family: Poppins_thin;
+    src: url(../fonts/Poppins/Poppins-Thin.ttf);
+}
+
+@font-face {
+    font-family: Roboto_light;
+    src: url(../fonts/Roboto/Roboto-Light.ttf);
+}

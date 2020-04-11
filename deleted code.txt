@@ -1,0 +1,14 @@
+<section id="selectionArea">
+                    <div id="cardServices">
+                        <img src="./images/serviceicon.png" height="80px" width="80px">
+                        <h3 class="cardheading">Services</h3>
+                        <p>Order from our range of services</p>
+                    </div>
+
+                    
+                    <div id="cardPartner">
+                        <img src="./images/partnericon.png" height="80px" width="80px">
+                        <a href="/partnerPage.html" id="cardheadingLink"><h3 class="cardheading">Become a partner</h3></a>
+                    </div>
+                    
+</section>
