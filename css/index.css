@@ -527,7 +527,8 @@ hr {
 #linksArea {
     flex: 3;
     /* background-color: khaki; */
-    border-right: 1px solid rgb(194, 194, 194);
+    border-right: 1px solid rgb(184, 184, 184);
+    display: flex;
 }
 
 #addressArea {
@@ -535,10 +536,10 @@ hr {
     /* background-color: lawngreen; */
 }
 
-#linksArea {
+/* #linksArea {
     display: flex;
 
-}
+} */
 
 #linksArea div{
     flex: 1;
